@@ -1,0 +1,9 @@
+.DS_Store
+*.DS_Store
+.venv/
+Model/.venv/
+Data/ml_env/
+ml_env/
+__pycache__/
+*.keras
+lemon_api/
