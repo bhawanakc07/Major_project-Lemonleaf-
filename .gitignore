@@ -6,4 +6,4 @@ Data/ml_env/
 ml_env/
 __pycache__/
 *.keras
-lemon_api/
+lemon_api/*.keras
