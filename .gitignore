@@ -25,7 +25,7 @@ __pycache__/
 
 # Dataset (IMPORTANT for ML projects)
 Model/Model2/lemon_leaf_dataset/
-Model/Model3/
+
 
 # Jupyter
 .ipynb_checkpoints/
