@@ -1,4 +1,5 @@
 .DS_Store
+<<<<<<< Updated upstream
 *.DS_Store
 .venv/
 Model/.venv/
@@ -7,3 +8,27 @@ ml_env/
 __pycache__/
 *.keras
 lemon_api/*.keras
+=======
+.venv/
+Data/ml_env/
+>>>>>>> Stashed changes
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Models
+*.keras
+*.h5
+
+# Dataset (IMPORTANT for ML projects)
+Model/Model2/lemon_leaf_dataset/
+Model/Model3/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
